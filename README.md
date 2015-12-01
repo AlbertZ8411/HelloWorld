@@ -1,7 +1,4 @@
 # HelloWorld
-# this is my hello world
-<<<<<<< HEAD
+# this is my hello worl
 # new version 123
-=======
 # new
->>>>>>> origin/master
